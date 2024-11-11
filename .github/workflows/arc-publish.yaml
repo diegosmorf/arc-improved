@@ -22,8 +22,8 @@ permissions:
  packages: write
 
 env:
-  TARGET_ORG: actions-runner-controller
-  TARGET_REPO: actions-runner-controller
+  TARGET_ORG: diegosmorf
+  TARGET_REPO: arc-improved
 
 concurrency:
   group: ${{ github.workflow }}
