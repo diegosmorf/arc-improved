@@ -22,7 +22,7 @@ permissions:
  packages: write
 
 env:
-  TARGET_ORG: diegosmorf
+  TARGET_ORG: diegodocs
   TARGET_REPO: arc-improved
 
 concurrency:
